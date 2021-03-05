@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/blk/static/css/main.8a8e939d.chunk.css",
+    "main.js": "/blk/static/js/main.8a0279b4.chunk.js",
+    "main.js.map": "/blk/static/js/main.8a0279b4.chunk.js.map",
+    "runtime-main.js": "/blk/static/js/runtime-main.6c02c9fc.js",
+    "runtime-main.js.map": "/blk/static/js/runtime-main.6c02c9fc.js.map",
+    "static/css/2.020e85e0.chunk.css": "/blk/static/css/2.020e85e0.chunk.css",
+    "static/js/2.1ae8f2aa.chunk.js": "/blk/static/js/2.1ae8f2aa.chunk.js",
+    "static/js/2.1ae8f2aa.chunk.js.map": "/blk/static/js/2.1ae8f2aa.chunk.js.map",
+    "static/js/3.a341bc58.chunk.js": "/blk/static/js/3.a341bc58.chunk.js",
+    "static/js/3.a341bc58.chunk.js.map": "/blk/static/js/3.a341bc58.chunk.js.map",
+    "index.html": "/blk/index.html",
+    "static/css/2.020e85e0.chunk.css.map": "/blk/static/css/2.020e85e0.chunk.css.map",
+    "static/css/main.8a8e939d.chunk.css.map": "/blk/static/css/main.8a8e939d.chunk.css.map",
+    "static/js/2.1ae8f2aa.chunk.js.LICENSE.txt": "/blk/static/js/2.1ae8f2aa.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/blk/static/media/HurmeGeometricSans3-Regular.ed47bb2b.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c02c9fc.js",
+    "static/css/2.020e85e0.chunk.css",
+    "static/js/2.1ae8f2aa.chunk.js",
+    "static/css/main.8a8e939d.chunk.css",
+    "static/js/main.8a0279b4.chunk.js"
+  ]
+}
